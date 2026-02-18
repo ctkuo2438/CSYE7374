@@ -1,0 +1,37 @@
+{
+  "os": "macOS-15.1-arm64-arm-64bit",
+  "python": "CPython 3.11.14",
+  "startedAt": "2026-02-18T00:42:34.569722Z",
+  "program": "assignment02.ipynb",
+  "codePath": "assignment02.ipynb",
+  "codePathLocal": "assignment02.ipynb",
+  "git": {
+    "remote": "https://github.com/ctkuo2438/CSYE7374.git",
+    "commit": "72bd68bf5ae2ba12908c212b04769cb1f2fe521e"
+  },
+  "email": "c.tingkuo216@gmail.com",
+  "root": "/Users/zhenting/7374_LLM/Assignment_02",
+  "host": "Mac.localdomain",
+  "executable": "/Users/zhenting/miniconda3/envs/7374_LLM/bin/python3.11",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "334609162240"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M3",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 16,
+    "swapTotalBytes": "6442450944",
+    "ramTotalBytes": "17179869184"
+  },
+  "writerId": "uql8fs79j0o1te9tb531arlfkb2d0761"
+}

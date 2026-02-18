@@ -1,0 +1,68 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            5bm4ym5gixcrnf7dve3dharvkdidazbf:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 10
+                    memoryGb: 16
+                    name: Apple M3
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "8589934592"
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "336609042432"
+                email: c.tingkuo216@gmail.com
+                executable: /Users/zhenting/miniconda3/envs/7374_LLM/bin/python3.11
+                git:
+                    commit: 72bd68bf5ae2ba12908c212b04769cb1f2fe521e
+                    remote: https://github.com/ctkuo2438/CSYE7374.git
+                host: guozhentingdeMacBook-Air.local
+                memory:
+                    total: "17179869184"
+                os: macOS-15.1-arm64-arm-64bit
+                program: <python with no main file>
+                python: CPython 3.11.14
+                root: /Users/zhenting/7374_LLM/Assignment_02
+                startedAt: "2026-02-17T22:07:39.228351Z"
+                writerId: 5bm4ym5gixcrnf7dve3dharvkdidazbf
+        m: []
+        python_version: 3.11.14
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 1
+                - 2
+                - 13
+                - 16
+                - 61
+            "4": 3.11.14
+            "5": 0.25.0
+            "8":
+                - 1
+            "12": 0.25.0
+            "13": darwin-arm64
+batch_size:
+    value: 16
+block_size:
+    value: 128
+lr:
+    value: 0.001
+max_steps:
+    value: 2000
+n_embd:
+    value: 128
+n_head:
+    value: 4
+n_layer:
+    value: 2
+vocab_size:
+    value: 50257
